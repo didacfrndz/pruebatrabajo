@@ -1,0 +1,27 @@
+
+/* Part Header and Nav */
+header{
+    background-color: #020617;
+    display: flex;
+    justify-content: space-between;
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color : white;
+}
+.logo{
+    width: 100px;
+    height: auto;
+}
+.content{
+    padding: 40px;
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
