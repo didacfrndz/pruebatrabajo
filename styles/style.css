@@ -24,4 +24,30 @@ nav ul{
     justify-content: space-between;
 }
 
+/* First Section Hello Welcome  */
 
+.secciongris{
+    background-color: #111827;
+    padding: 96px 165px 96px 165px;
+}
+.textYellow{
+    color: #FBBF24;
+}
+.divGrandeSeccion1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.imgSeccion1{
+    width: 427px;
+    height:427px;
+    border-radius:24px ;
+}
+.divTextoSeccion1{
+    width: 466px;
+    height: 271px;
+    gap: 24px;
+}
+h1{
+    color: white;
+}
